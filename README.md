@@ -1,4 +1,4 @@
-# Hell-En - Website
+# Hell-EN - Website
 
 ![screenshot](https://github.com/marlenaduleba/group-6-project/blob/main/Hell-EN.png)
 
