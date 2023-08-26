@@ -1,6 +1,6 @@
 # Hell-En - Website
 
-![screenshot]()
+![screenshot](https://github.com/marlenaduleba/group-6-project/blob/main/Hell-EN.png)
 
 This project was developed as part of the HTML-CSS module in a Fullstack Developer course. The website is fully responsive, with breakpoints at 480px, 768px, and 1280px, ensuring proper display on all devices, from a width of 320px in both orientations.
 
@@ -18,5 +18,5 @@ This project was developed as part of the HTML-CSS module in a Fullstack Develop
 
 ## Links
 
-- [Homepage]()
-- [GitHub Repository]()
+- [Homepage](https://bieganskip.github.io/group-6-project/)
+- [GitHub Repository](https://github.com/BieganskiP/group-6-project)
