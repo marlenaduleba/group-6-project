@@ -1,48 +1,22 @@
-# parcel-project-template
+# Hell-En - Website
 
-## Zalezności
+![screenshot]()
 
-Na komputerze musi być zainstalowana LTS-wersja [Node.js](https://nodejs.org/en/).
+This project was developed as part of the HTML-CSS module in a Fullstack Developer course. The website is fully responsive, with breakpoints at 480px, 768px, and 1280px, ensuring proper display on all devices, from a width of 320px in both orientations.
 
-## Przed rozpoczęciem pracy
+- The project has been validated using HTML5 and Unicorn, ensuring compliance with HTML5 standards.
+- All images, both vector and bitmap, have been optimized for size and display on screens with various resolutions, including retina screens.
+- Added a favicon to the page for better identification.
 
-Jeden raz na projekt zainstalować wszystkie zalezności.
+## Technologies Used
 
-```shell
-npm ci
-```
+![HTML5](https://img.shields.io/badge/HTML5-informational?style=for-the-badge&logo=html5&logoColor=white&color=orange)
+![BEM](https://img.shields.io/badge/BEM-informational?style=for-the-badge&logo=BEM&logoColor=white&color=blue)
+![SASS](https://img.shields.io/badge/SASS-informational?style=for-the-badge&logo=sass&logoColor=white&color=pink)
+![JavaScript](https://img.shields.io/badge/JavaScript-informational?style=for-the-badge&logo=javascript&logoColor=white&color=yellow)
+![Parcel](https://img.shields.io/badge/Parcel-informational?style=for-the-badge&logo=parcel&logoColor=white&color=green)
 
-### Praca
+## Links
 
-Włączyć tryp pracy.
-
-```shell
-npm run dev
-```
-
-W przeglądarce przejść na [http://localhost:1234](http://localhost:1234).
-
-### Deploy
-
-Kod będzie automatycznie się zbierać i robić deploy aktualnej wersji projektu 
-na GitHub Pages, w gałąź `gh-pages`, za kazdym razem jeśli zostaną wprowadzone zmiany w `main`. Na przykład, po bezpośrenim push lub po przyjęciu pull-request. Aby to działało musimy w pliku `package.json` zmienić pole `homepage` i skrypt
-`build`, zmieniając `nazwe_uzytkownika` i `nazwe_repozytorium` na swoje.
-
-```json
-"homepage": "https://nazwa_uzytkownika.github.io/nazwa_repozytorium",
-"scripts": {
-  "build": "parcel build src/*.html --public-url /nazwa_repozytorium/"
-},
-```
-
-Po jakimś czasie stronę mozna będzie zobaczyć na zywo pod adresem który 
-jest wpisany w poprawione właściwości `homepage`, na przykład
-[https://goitacademy.github.io/parcel-project-template](https://goitacademy.github.io/parcel-project-template).
-
-## Pliki i folderzy
-
-- Wszystkie partials plików styłów powinny być w folderze `src/sass` i importować się w
-  `src/sass/main.scss`
-- Zdjęcia dodawajcie w folder `src/images`, przed tym zoptymizujcie te zdjęcia które dodajecie. Program po prostu 
-  kopiuje wykorzystane zdjęcia aby system nie musiał optymizować je, bo na słabych komputerach 
-  to moze zająć duzo czasu.
+- [Homepage]()
+- [GitHub Repository]()
